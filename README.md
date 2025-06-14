@@ -27,7 +27,7 @@ This is a basic command-line calculator written in Python. It performs four arit
 ```bash
 python calculator.py
 
-<hr>
+## Author
 
-Author
-Sandesh Salokhe
+**Sandesh Salokhe**  
+GitHub: [@Sandesh-008](https://github.com/Sandesh-008)
