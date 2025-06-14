@@ -25,7 +25,10 @@ This is a basic command-line calculator written in Python. It performs four arit
 3. Run the program using:
 
 ```bash
+
 python calculator.py
+
+```
 
 ## Author
 
